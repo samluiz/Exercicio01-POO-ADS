@@ -1,0 +1,1 @@
+Um número é dito ser capicua quando lido da esquerda para a direita é o mesmo que quando  lido  da  direita  para  a  esquerda.  O  ano  2002,  por  exemplo,  é capicua.  Então, elabore  um algoritmo para verificar se um número é capicua. Atenção só podem ser feito usando operações matemáticas.

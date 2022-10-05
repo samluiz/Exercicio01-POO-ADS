@@ -1,0 +1,1 @@
+Faça um Programa que peça dois números e imprima a soma de todos os números pares no intervalo entre os dois números.
